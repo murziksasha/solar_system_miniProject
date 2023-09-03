@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  width: 4000px;
+  overflow-x: scroll;
+}
+
+.system {
+  display: flex;
+  align-items: center;
+}
+
+.sphere {
+  border-radius: 50%;
+  margin: 5px;
+  background-position: center;
+  background-size: cover;
+}
+
+.sun {
+  background-image: url(../images/sun.png);
+}
+
+.mercury {
+  background-image: url(../images/mercury.png);
+}
+
+.venus {
+  background-image: url(../images/venus.png);
+}
+
+.earth {
+  background-image: url(../images/earth.png);
+}
+
+.mars {
+  background-image: url(../images/mars.png);
+}
+
+.jupiter {
+  background-image: url(../images/jupiter.png);
+}
+
+.saturn {
+  background-image: url(../images/saturn.png);
+}
+
+.uranus {
+  background-image: url(../images/uranus.png);
+}
+
+.neptune {
+  background-image: url(../images/neptune.png);
+}
